@@ -8,7 +8,7 @@ I'm currently pouring my energy into [developwithmi.com](https://developwithmi.c
 
 ## Get in Touch
 - 📸 Follow me on Instagram: [developwith.mi](https://www.instagram.com/developwith.mi/)
-- 📸 Follow me on Medium: [Medium](https://medium.com/@developwithmi)
+- 📸 Follow me on Medium: [Medium](https://medium.com/@iammidhul)
 
 ## My Tech Stack
 Here's a glimpse of my toolkit:
