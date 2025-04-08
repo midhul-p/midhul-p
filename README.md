@@ -6,7 +6,7 @@ I'm a passionate developer with expertise in JavaScript, Angular, React coupled 
 ## What I've Built  
 Here are Featured Repositories :  
 - **[Angular Microfrontend](https://github.com/midhul-p/ngx-navigate-back)** – Implementing Native Federation with Angular to enable independent deployments of microfrontends.  
-- **[ngx-navigate-back](https://github.com/iammidhul/ngx-navigate-back)** – An Angular library that provides seamless navigation back functionality in applications.  
+- **[ngx-navigate-back](https://github.com/midhul-p/ngx-navigate-back)** – An Angular library that provides seamless navigation back functionality in applications.  
 
 ## Get in Touch  
 - 📝 Follow my blogs on Medium: [@iammidhul](https://medium.com/@iammidhul)
